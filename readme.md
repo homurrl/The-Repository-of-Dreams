@@ -22,3 +22,6 @@ This is the number of kilometers you drive in a typical week.
 
 Results
 The calculator will display your estimated carbon footprint in kilograms of carbon dioxide equivalent (CO2e). CO2e is a unit that is used to measure the emissions of all greenhouse gases, not just carbon dioxide.
+
+
+<img width="1525" alt="Screen Shot 2023-05-13 at 6 25 32 pm" src="https://github.com/homurrl/The-Repository-of-Dreams/assets/117972653/ffab55bc-8e0d-4baa-8f6b-29d1a1823545">
